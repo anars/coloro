@@ -1,0 +1,39 @@
+{
+  "name": "color-o",
+  "version": "1.0.0",
+  "description": "Color conversion and manipulation for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anars/color-o.git"
+  },
+  "keywords": [
+    "Color",
+    "CSS",
+    "CSS Color",
+    "Palette",
+    "Color Palette",
+    "Color Space",
+    "CMY",
+    "CMYK",
+    "GRAY",
+    "HLS",
+    "HSV",
+    "Lab",
+    "Luv",
+    "RGB",
+    "XYZ",
+    "YCbCr",
+    "Yxy",
+    "CIEXYZ",
+    "sRGB"
+  ],
+  "author": "Kay Anar",
+  "bugs": {
+    "url": "https://github.com/anars/color-o/issues"
+  },
+  "homepage": "https://github.com/anars/color-o#README.md"
+}
