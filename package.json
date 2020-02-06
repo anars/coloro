@@ -1,14 +1,11 @@
 {
   "name": "color-o",
   "version": "1.0.0",
-  "description": "Color conversion and manipulation for JavaScript",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Color conversion and manipulation class for JavaScript",
+  "main": "color-o.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anars/color-o.git"
+    "url": "git+https://github.com/anars/coloro.git"
   },
   "keywords": [
     "Color",
@@ -33,7 +30,11 @@
   ],
   "author": "Kay Anar",
   "bugs": {
-    "url": "https://github.com/anars/color-o/issues"
+    "url": "https://github.com/anars/coloro/issues"
   },
-  "homepage": "https://github.com/anars/color-o#README.md"
+  "homepage": "https://github.com/anars/coloro#README.md",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
 }
