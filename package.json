@@ -1,8 +1,8 @@
 {
-  "name": "color-o",
+  "name": "coloro",
   "version": "1.0.0",
   "description": "Color conversion and manipulation class for JavaScript",
-  "main": "color-o.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anars/coloro.git"
